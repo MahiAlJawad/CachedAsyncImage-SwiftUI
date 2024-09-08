@@ -11,6 +11,7 @@
 		5A9AA7F12C8D9050000AC90C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9AA7F02C8D9050000AC90C /* ContentView.swift */; };
 		5A9AA7F32C8D9051000AC90C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A9AA7F22C8D9051000AC90C /* Assets.xcassets */; };
 		5A9AA7F62C8D9051000AC90C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A9AA7F52C8D9051000AC90C /* Preview Assets.xcassets */; };
+		5A9AA7FD2C8D9081000AC90C /* CachedAsyncImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9AA7FC2C8D9081000AC90C /* CachedAsyncImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5A9AA7F02C8D9050000AC90C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5A9AA7F22C8D9051000AC90C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5A9AA7F52C8D9051000AC90C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5A9AA7FC2C8D9081000AC90C /* CachedAsyncImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CachedAsyncImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				5A9AA7EE2C8D9050000AC90C /* CachedAsyncImageApp.swift */,
 				5A9AA7F02C8D9050000AC90C /* ContentView.swift */,
+				5A9AA7FC2C8D9081000AC90C /* CachedAsyncImage.swift */,
 				5A9AA7F22C8D9051000AC90C /* Assets.xcassets */,
 				5A9AA7F42C8D9051000AC90C /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A9AA7F12C8D9050000AC90C /* ContentView.swift in Sources */,
+				5A9AA7FD2C8D9081000AC90C /* CachedAsyncImage.swift in Sources */,
 				5A9AA7EF2C8D9050000AC90C /* CachedAsyncImageApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
